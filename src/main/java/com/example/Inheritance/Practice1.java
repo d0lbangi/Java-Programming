@@ -23,7 +23,7 @@ class Cat extends Animal {
     Cat() {
 //  this.desc = "고양이 입니다.";
 //  super.desc = "고양이 입니다.";
-    super("고양이 입니다.");
+    super("고양이 입니다!.");
     }
 }
 

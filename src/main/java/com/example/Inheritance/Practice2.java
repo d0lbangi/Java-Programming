@@ -16,14 +16,14 @@ class Car {
 class FireTruck extends Car {
     public void horn() {
         super.horn();
-        System.out.println("위이잉!");
+        System.out.println("위이잉!!");
     }
 }
 
 class Ambulance extends Car {
     public void horn() {
         super.horn();
-        System.out.println("삐뽀삐뽀!");
+        System.out.println("삐뽀삐뽀!!");
     }
 }
 
