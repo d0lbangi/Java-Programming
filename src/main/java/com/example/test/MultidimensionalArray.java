@@ -1,6 +1,6 @@
 package com.example.test;
 
-public class multidimensionalArray {
+public class MultidimensionalArray {
 
     public static void main(String[] args) {
 

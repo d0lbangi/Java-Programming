@@ -6,12 +6,12 @@ package com.example.test;
 //  특성: 이름, 무게, 분류
 //  기능: 먹기, 잠자기, 걷기, 뛰기
 
-public class classesObjectAnimalPractice {
+public class ClassesObjectAnimalPractice {
     String name;
     Double weight;
     String classification;
 
-    classesObjectAnimalPractice(String name, Double weight, String classification) {
+    ClassesObjectAnimalPractice(String name, Double weight, String classification) {
         this.name=name;
         this.weight=weight;
         this.classification=classification;
@@ -37,8 +37,8 @@ public class classesObjectAnimalPractice {
     }
     public static void main(String[] args) {
         // Test code
-        classesObjectAnimalPractice animal1 = new classesObjectAnimalPractice("강아지", 5.0, "포유류");
-        classesObjectAnimalPractice animal2 = new classesObjectAnimalPractice("구피", 0.01, "어류");
+        ClassesObjectAnimalPractice animal1 = new ClassesObjectAnimalPractice("강아지", 5.0, "포유류");
+        ClassesObjectAnimalPractice animal2 = new ClassesObjectAnimalPractice("구피", 0.01, "어류");
 //
         animal1.printInfo();
         animal2.printInfo();

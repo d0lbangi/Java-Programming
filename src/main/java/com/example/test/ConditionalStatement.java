@@ -1,6 +1,6 @@
 package com.example.test;
 
-public class conditionalStatement {
+public class ConditionalStatement {
 
     public static void main(String[] args){
 

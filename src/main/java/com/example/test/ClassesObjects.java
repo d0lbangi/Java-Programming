@@ -3,13 +3,13 @@ package com.example.test;
 // Java 프로그래밍 - 클래스와 객체_1
 
 // Car 클래스 - 객체변수, 메소드
-class Car {
+class Car4 {
     String name;
     String type;
 
     public void printCarInfo() {
 
-        System.out.println("== Car Info == ");
+        System.out.println("== Car3 Info == ");
         System.out.println("name = + " + name);
         System.out.println("name = + " + type);
     }
@@ -46,10 +46,10 @@ class Car2 {
         System.out.println("빵!");
     }
 }
-public class classesObjects {
+public class ClassesObjects {
         public static void main(String[] args) {
 //      Car 클래스 사용
-        Car myCar1 = new Car();
+        Car4 myCar1 = new Car4();
         myCar1.name = "a";
         myCar1.type = "suv";
         myCar1.printCarInfo();

@@ -1,6 +1,6 @@
 package com.example.test;
 
-public class loop {
+public class Loop {
 
     public static void main(String[] args) {
 
