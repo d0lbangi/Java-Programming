@@ -93,7 +93,7 @@ public class Main {
 //      3-2. TreeMap
         System.out.println("== TreeMap ==");
         TreeMap map2 = new TreeMap();
-        map2.put(10, "kiki");
+        map2.put(10, "kikikiwi");
         map2.put(5, "apple");
         map2.put(15, "mango");
         System.out.println("map2 = " + map2);

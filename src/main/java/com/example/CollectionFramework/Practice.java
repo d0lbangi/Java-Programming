@@ -12,7 +12,7 @@ public class Practice {
 
         HashSet set = new HashSet();
 
-        for (int i = 0; set.size() < 6; i++) {
+        for (int i = 0; set.size() < 7; i++) {
             int num = (int)(Math.random() * 45) + 1;
             set.add(num);
         }
