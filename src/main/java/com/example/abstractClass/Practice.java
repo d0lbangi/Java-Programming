@@ -17,7 +17,7 @@ class UsbPort1 extends Device {
     UsbPort1(int id) {
         this.deviceId = id;
     }
-    void devideInfo() {
+    void deviceInfo() {
         System.out.println("id = " + this.deviceId);
     }
 
